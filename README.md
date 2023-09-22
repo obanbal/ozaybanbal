@@ -1,2 +1,5 @@
-# ozaybanbal
-ilk örnek çalışma
+# Özay Banbal
+İlk örnek çalışma
+
+#Author
+Özay Banbal
