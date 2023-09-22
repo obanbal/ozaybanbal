@@ -1,0 +1,2 @@
+# ozaybanbal
+ilk örnek çalışma
